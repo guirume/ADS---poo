@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>EX_01-POO</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+        
+        
+    </head>
+    <body>
+        <div id="app">{{ message }}</div>
+        <script>
+            const { createApp, ref } = Vue
+            createApp({
+            setup() {
+                const message = ref('Hello vue!')
+                return {
+                    message
+                }
+            }
+          }).mount('#app')
+        </script>
+        
+        <h1>ADS 4° ciclo</h1>
+        <h3>Nome: Guilherme Rodrigues <br>
+        RA:   1290482222034</h3>
+        <h3><a href='guilherme.json'>Materias</a><br>
+        <a href='loteria.json'>Loteria.</a></h3>
+    </body>
+</html>
