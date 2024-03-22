@@ -1,0 +1,1 @@
+Este foi o primeiro exercício criado durante as aulas, o intuito da tarefa foi para a compreensão dos -SERVLET-, que são como pequenos serviços para páginas HTML, além disso, a tarefa nos permitiu nos familiarizar com a IDE, re-familiarizar com a linguagem java e HTML.
