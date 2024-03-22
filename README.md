@@ -1,1 +1,1 @@
-Nas pastas postadas aqui serão encontradas tarefas feitas sob orientação do professor Ricardo Pupu Larguesa, durante as aulas de Programação Orientada a Objeto (POO), a principal ferramnta utilizada sera o apache netbeans utilizando das linguagems java, html, javascript e outras.
+Nas pastas postadas aqui serão encontradas tarefas feitas sob orientação do professor Ricardo Pupu Larguesa, durante as aulas de Programação Orientada a Objeto (POO), a principal ferramenta utilizada será o apache NetBeans utilizando das linguagens java, HTML, JavaScript e outras.
