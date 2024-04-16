@@ -1,0 +1,4 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<p><a href="index.jsp">Home</a>&nbsp &nbsp &nbsp<a href="numero-primo.jsp">Pimos</a>&nbsp &nbsp &nbsp<a href="fibonacci.jsp">Fibonacci</a>&nbsp &nbsp &nbsp<a href="soma.jsp">Gauss</a></p>
+<link rel="stylesheet" type="text/css" href="style.css">
