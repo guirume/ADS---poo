@@ -15,11 +15,7 @@
     <body>
         <%@include file="WEB-INF/jspf/header.jspf"%>
         
-        <script> async function logMovies() {
-            const response = await fetch("http://localhost:8080/EX5_POO/Luana.json");
-            const movies[] = await response.json();
-            console.log(movies);
-        }</script>
+        
         
         <h1>Saudações</h1>
     </body>
