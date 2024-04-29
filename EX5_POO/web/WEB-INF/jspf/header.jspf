@@ -1,0 +1,13 @@
+<%@ page pageEncoding="UTF-8" %>
+
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+
+<div class="main" x-data="{ open: false }">
+    <h1 class="text">
+        Header    
+        <a class="right" href="index.jsp">Home</a>  <a href="disciplinas.jsp">Disciplinas</a>
+    </h1>
+</div>
