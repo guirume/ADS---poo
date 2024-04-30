@@ -31,7 +31,7 @@ public class MeServlet extends HttpServlet {
                         out.println("<p><a href=\"index.html\">Voltar</a></p>");
                         out.println("<h1>Saudações</h1>");
                         out.println("<h1>RA:    1290482222034</h1>");
-                        out.println("<h2>Nome:  Guilherme Rodrigues<br>");
+                        out.println("<h2>Nome:  Luana Honorato Rodrigues<br>");
                         out.println("idade:  20 anos</h2>");
                     out.println("</body>");
                 out.println("</html>");
